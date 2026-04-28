@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  /* Color Palette based on your image */
+  --color-primary-dark: #091413; /* Dark Green */
+  --color-primary-deep: #285a48; /* Forest Green */
+  --color-primary-medium: #408a71; /* Medium Green */
+  --color-primary-light: #b0e4cc; /* Mint Green */
+
+  --color-navy: var(--color-primary-dark);
+}
